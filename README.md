@@ -12,7 +12,7 @@ This provided databased can be couple with a databse manager to retrieve or visu
 
 ## Database specification
 
-The tables are written with comma separated values (.csv) files. They consist of row entries with typed colums (SQL style). The relation schemas is given :
+The tables are written with comma separated values (.csv) files. They consist of row entries with typed colums (SQL style). Lists are separated by semi-colons and pairs by pipes. The relation schemas is given :
 
 ### Modellings
 - short_name : word (primary key)
@@ -21,13 +21,14 @@ The tables are written with comma separated values (.csv) files. They consist of
   - introductory or main result papers
 - tags : word list (enumaration)
   - e.g. : grammar, model, concept,...
+- comments : text
 - strengths : text
 - shortcomings : text
 
 ### ModellingRelations
 - first : word (secondary key, Modelling foreign key)
 - rel_type : word (enumeration)
-  - e.g. : syntax (part is), sematics (part is), concept (part is),...
+  - e.g. : (has as) syntax (:), (has as) sematics (:), (has as) subconcept (:), ...
 - second : word (secondary key, Modelling foreign key)
 - paper : word (Papers foreign key list, optional)
   - paper where the link is argumented
@@ -38,25 +39,27 @@ The tables are written with comma separated values (.csv) files. They consist of
 ### Papers
 - ref : word (primary key)
   - of the form Author1LastName\_Author1LastName\_...\_year(index)
-- title : text
 - authors : word couple list (Person foreign key list)
+- year : number
+- title : text
 - type : word (enumaration)
   - bibtex paper type (article, injournal, inbook, proceedings, slides,...)
 - context : word (Context foreign key, optional)
 - modellings : word list (Modelling foreign key list)
+- comments : text
 
 ### Contexts
 - short_name : word (primary key)
 - long_name : text
 - type : word (enumaration)
-  - e.g. : workshop, conference, summer_school, lecture, journal,...
+  - e.g. : workshop, conference, publisher, season_school, lecture, journal,...
 - description : text
 
 ### Persons
 - last_name : word (secondary key)
 - first_name : word (secondary key)
-- email_first : word
-- email_sec : word
+- email_first : word (optional)
+- email_sec : word (optional)
   - email = email_first\@email_sec
-- institute_town : word
+- institute_town : word (optional)
 - interests : word list (Modelling primary key list)
