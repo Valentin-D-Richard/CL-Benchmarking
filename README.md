@@ -1,9 +1,8 @@
 # Benchmarking
 
-This repository aims at listing and comparing the concepts, models, tools and people related to computational linguistics. It is not intended to be exhaustive, and would be rather focused on my interests and personal career experiences. Nevertheless completion suggestions are welcome. The project is structured aroud 4 main entry types split into 7 files respectiveley :
-- Modellings
-- ModellingRelations
-- Tools
+This repository aims at listing and comparing the concepts, models, tools and people related to computational linguistics. It is not intended to be exhaustive, and would be rather focused on my interests and personal career experiences. Nevertheless completion suggestions are welcome. The project is structured aroud 4 main entry types split into 6 files respectiveley :
+- Topics
+- TopicRelations
 - Papers
 - Contexts
 - ContextRelations
@@ -21,7 +20,7 @@ The tables are written with comma separated values (.csv) files. They consist of
 - papers : word list (Papers foreign key list)
   - introductory or main result papers
 - tags : word list (enumaration)
-  - e.g. : grammar, model, concept, field, cognition (theory)...
+  - e.g. : grammar, (logic) model, concept (or linguistic theory), field, cognition (theory), tool, bank...
 - comments : text
 - strengths : text
 - shortcomings : text
@@ -29,18 +28,10 @@ The tables are written with comma separated values (.csv) files. They consist of
 ### TopicRelations
 - first : word (secondary key, Topc foreign key)
 - rel_type : word (enumeration)
-  - e.g. : syntax (of), sematics (of), subconcept (of), subfield (of), modelling (of), related (to),...
+  - e.g. : syntax (of), sematics (of), subconcept (of), subfield (of), modelling (of), related (to), tool (of)...
 - second : word (secondary key, Topic foreign key)
 - paper : word (Papers foreign key list, optional)
   - paper where the link is argumented
-  
-### Tools
-- short_name : word (primary key)
-- long_name : text
-- type : word (enumeration)
-  - e.g. : bank, parser, website,...
-- topics : word list (Topic foreign key list)
-- comments : text
 
 ### Papers
 - ref : word (primary key)
