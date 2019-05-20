@@ -13,4 +13,9 @@ RCS,Recursive Categorical Syntax,Brame_1984,grammar,"Algebraic theory of syntax 
 TG,Transformational Grammar,*,*,*,*,*
 OG,Operator Grammar,Harris_1991,concept;cognition;grammar,"Human language is a self-organizing system in which both the syntactic and semantic properties of a word are established purely in relation to other words. Universal constraints: depednancy,likelihood and reduction","",""
 FGD,Functionnal Generative Description,Sgall_Hajicova_Panevova_1986,grammar,"A stratificational grammar formalism that treats the sentence as a system of interlinked layers","",""
-TFA,Topic-Focus Analysis,*,field,,,
+TopFocAn,Topic-Focus Analysis,*,field,,,
+Lexicase,Lexicase,Starosta_1988,grammar,"Monostratal X-bar grammar in which words are the heads of their own phrases","Developped for a large range of languages",""
+MTT,Meaning-Text Therory,Melcuk_1981,concept,cognition,"Provides a large and elaborate basis for linguistic description. Operate on the principle that language consists in a mapping from the content or meaning of an utterance to its form or text","",""
+Sem-CommS,Semantic-Communicative Structure,Melcuk_2001,semantics,"A formal object that is imposed on the starting Semantic Structure of a sentence (under text synthesis) in order to turn the selected meaning into a linguistic message","",""
+WordG,Word Grammar,Hudson_2007,concept;cognition,"Statements about words and their properties form a complex network of propositions","Neuro-linguistics supports",""
+SemNet,Semantic Network,*,semantics,concept,*,"",""
