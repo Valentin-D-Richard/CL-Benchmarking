@@ -11,3 +11,6 @@ XDG,Extensible Dependency Grammar,Duchier_Debusmann_2001,grammar,"A general fram
 XMG,Extensible MetaGrammar,*,*,*,*,*
 RCS,Recursive Categorical Syntax,Brame_1984,grammar,"Algebraic theory of syntax (Algebraic Syntax)","",""
 TG,Transformational Grammar,*,*,*,*,*
+OG,Operator Grammar,Harris_1991,concept;cognition;grammar,"Human language is a self-organizing system in which both the syntactic and semantic properties of a word are established purely in relation to other words. Universal constraints: depednancy,likelihood and reduction","",""
+FGD,Functionnal Generative Description,Sgall_Hajicova_Panevova_1986,grammar,"A stratificational grammar formalism that treats the sentence as a system of interlinked layers","",""
+TFA,Topic-Focus Analysis,*,field,,,
