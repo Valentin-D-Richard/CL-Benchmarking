@@ -1,3 +1,4 @@
 short_name,long_name,papers,tags,comments,strengths,shortcomings
 FFrame,Fillmore's Frame,Fillmore_Atkins_1992;Fillmore_Baker_2001,concept,"Lexical frame (Lexical Unit) with functional attributes (Lexical Elements) to lexical values (Lexical Entries): captures the semantic realisation of  the syntactic dependencies","FrameNet : large amount of lexical frames and annotated corpora","No global systematisation"
 ArgLink,Argument linking,Lieber_1983,concept,"Captures the semantic realisation of the syntactic or morphological dependencies","","High variability of actual realisation. Idiosyncratic"
+CaseGrammar,Case Grammar,Fillmore_1968,grammar;concept,"Link between the valence (thematic argumants) and the grammatical context (grammatical functions)","",""
