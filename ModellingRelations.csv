@@ -1,3 +1,4 @@
 first,rel_type,second,paper
-FFrame,grammar,CaseGrammar,
-CaseGrammar,variant,DependencyGrammar,
+FFrame,sytax,CaseGrammar,
+CaseGrammar,syntax,DependencyGrammar,
+ArgLink,subconcept,FFrame,
