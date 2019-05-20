@@ -12,5 +12,5 @@ FDG,modelling,TopFocAn,
 Lexicase,related,DG,
 DG,syntax,MTT,
 Sem-CommS,semantics,MTT,
-DG,syntax,WordG
-SemNet,semantics,WordG
+DG,syntax,WordG,
+SemNet,semantics,WordG,
