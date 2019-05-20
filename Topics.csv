@@ -18,4 +18,4 @@ Lexicase,Lexicase,Starosta_1988,grammar,"Monostratal X-bar grammar in which word
 MTT,Meaning-Text Therory,Melcuk_1981,concept;cognition,"Provides a large and elaborate basis for linguistic description. Operate on the principle that language consists in a mapping from the content or meaning of an utterance to its form or text","",""
 Sem-CommS,Semantic-Communicative Structure,Melcuk_2001,semantics,"A formal object that is imposed on the starting Semantic Structure of a sentence (under text synthesis) in order to turn the selected meaning into a linguistic message","",""
 WordG,Word Grammar,Hudson_2007,concept;cognition,"Statements about words and their properties form a complex network of propositions","Neuro-linguistics supports",""
-SemNet,Semantic Network,*,semantics,concept,*,"",""
+SemNet,Semantic Network,*,semantics;concept,*,"",""
