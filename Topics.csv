@@ -6,8 +6,8 @@ DG,Depedndency Grammar,Hays_1964,grammar;concept,"Structure determined by the re
 Lexicography,Lexicography,*,field,,,
 MT,Machine Translation,*,field,,,
 LinkG,Link Grammar,Sleator_Temperley_1993,grammar,"Builds relations between pairs of words, rather than constructing constituents, with non directed edges","Parsing algorithm",""
-CG,Categorial Grammar,*
+CG,Categorial Grammar,*,*,*,*,*
 XDG,Extensible Dependency Grammar,Duchier_Debusmann_2001,grammar,"A general framework for dependency grammar, with multiple levels of linguistic representations called dimensions","Different dimensions of description",""
 XMG,Extensible MetaGrammar,*
 RCS,Recursive Categorical Syntax,Brame_1984,grammar,"Algebraic theory of syntax (Algebraic Syntax)","",""
-TG,Transformational Grammar,
+TG,Transformational Grammar,*,*,*,*,*
