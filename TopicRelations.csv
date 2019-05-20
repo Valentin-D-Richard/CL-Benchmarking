@@ -1,0 +1,10 @@
+first,rel_type,second,paper
+CaseGrammar,sytax,FFrame,
+DG,syntax,CaseGrammar,
+FFrame,modelling,ArgLink,
+LinkG,related,DG,
+LinkG,related,CG,
+XDG,related,DG,
+RCG,related,CG,
+
+
