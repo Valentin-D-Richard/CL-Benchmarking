@@ -6,5 +6,7 @@ LinkG,related,DG,
 LinkG,related,CG,
 XDG,related,DG,
 RCG,related,CG,
-
+DG,modelling,OG
+FDG,related,DG
+FDG,modelling,TFA
 
