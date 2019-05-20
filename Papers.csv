@@ -1,6 +1,6 @@
 ref,authors,year,title,type,context,modellings,comments
 Fillmore_Atkins_1992,Fillmore|Charles J.;Atkins|B. T. S.,1992,"Towards a frame-based lexicon: The semantics of RISK and its neighbors",inbook,Routledge,FFrame,""
-Fillmore_1968,Fillmore|Charles J.,1968,"The Case for Case",inbook,New York, Holt, Rinehart and Winston,CaseGrammar,"",""
+Fillmore_1968,Fillmore|Charles J.,1968,"The Case for Case",,CaseGrammar,""
 Hays_1964,Hays|David G.,1964,"Dependency Theory: A Formalism and Some Observations",injournal,Language,DG,""
 Sleator_Temperley_1993,Sleator|Daniel;Temperley|Davy,1993,"Parsing English with a Link Grammar",inproceedings,IWPT,LinkG,""
 Duchier_Debusmann_2001,Duchier|Denys;Debusmann|Ralph,2001,"Topological Dependency Trees: A Constraint-Based Account of Linear Precedence",inproceedings,ACL,XDG,""
