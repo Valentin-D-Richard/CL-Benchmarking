@@ -8,5 +8,9 @@ XDG,related,DG,
 RCG,related,CG,
 DG,modelling,OG,
 FDG,related,DG,
-FDG,modelling,TFA,
-
+FDG,modelling,TopFocAn,
+Lexicase,related,DG,
+DG,syntax,MTT,
+Sem-CommS,semantics,MTT,
+DG,syntax,WordG
+SemNet,semantics,WordG
