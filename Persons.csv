@@ -1,9 +1,9 @@
 lats_name,first_name,institute_town,interests
-Fillmore,Charles J.,Berkeley,FFrame;ArgLink
+Fillmore,Charles J.,Berkeley,FFrame;ArgLink;SemRoles
 Atkins,B. T. S.,,Lexicography
 Hays,David G.,,MT;DG
 Sleator,Daniel,Pittsburgh,LinkG
-Temperley,Davy,NewYork,LinkG
+Temperley,Davy,New York,LinkG
 Duchier,Denys,Orléan,XMG
 Debusmann,Ralph,Saarbrück,XDG
 Brame,Micheal,,RCS
@@ -16,15 +16,19 @@ Mel’čuk,Igor,Montréal,MTT;Sem-CommS
 Hudson,Richard,London,WordG
 Ruppenhofer,Josef,Leibniz,FrameNet:FFrame
 Ellsworth,Michael,Berkeley,FrameNet
-Petruck,MiriamRL,Berkeley,FrameNet
-Johnson,ChristopherR,SaltLakeCity,FrameNet
+Petruck,Miriam R. L.,Berkeley,FrameNet
+Johnson,Christopher R.,SaltLakeCity,FrameNet
 Baker,CollinF,Berkeley,FrameNet;AI
 Scheffczyk,Jan,Honnover,FrameNet
 Grinberg,Dennis,Pittsburgh,LinkGParser
-Lafferty,John,NewHaven,LinkGParser
-deMarneffe,Marie-Catherine,Columbus,UD
+Lafferty,John,New Haven,LinkGParser
+de Marneffe,Marie-Catherine,Columbus,UD
 MacCartney,Bill,Standford,UD
-Manning,ChristopherD,Standford,UD
+Manning,Christopher D.,Standford,UD
 Uszkoreit,Hans,Berlin,HLT
-
-
+Tesnière,Lucien,,DepGT,DG
+Nichols,Johanna,Berkeley,FuncGT
+Hendeveld,Kees,Amsterdam,FDG
+Mackenzie,J. Lachlan,Amsterdam,FDG
+Chomsky,Noam,,GenGT,FG
+Halliday,M.A.K,,SFL
