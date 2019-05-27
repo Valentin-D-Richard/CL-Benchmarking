@@ -27,7 +27,7 @@ UD,Universal Dependencies,deMarneffe_MacCartney_Manning_2006,bank,"Framework for
 HLT,Human Language Technology,Uszkoreit_2018,field,"Studies methods of how computer programs or electronic devices can analyze, produce, modify or respond to human texts and speech. NLP+CL+speech technology","",""
 SemRoles,Semantic Roles,Fillmore_1971,concept,"Or thematic relations, deep case. Various roles that a noun phrase may play with respect to the action or state described by a governing verb: agent, theme, experiencer,...","",""
 FuncGT,Functional Grammar Theory,Nichols_1984,concept,"Functionality of language and its elements to be the key to understanding linguistic processes and structures","",""
-SynFunc,Syntactic Functions,grammar,*,grammar,"Type of relation between a predicate and an argument, caracterised by morpho-syntactic properties on the argument. Subject, object,...","",""
+SynFunc,Syntactic Functions,*,grammar,"Type of relation between a predicate and an argument, caracterised by morpho-syntactic properties on the argument. Subject, object,...","",""
 FDG,Functional (Discourse) Grammar,Hengeveld_Mackenzie_2008,grammar,"Explains how linguistic utterances are shaped, based on the goals and knowledge of natural language users","",""
 GenGT,Generative Grammar Theory,Chomsky_1965,concept,"System of rules that generates exactly those combinations of words that form grammatical sentences","",""
 SFL,Systemic Functional Linguistics,Halliday_1992,cognition,"Considers language as a social semiotic system","",""
