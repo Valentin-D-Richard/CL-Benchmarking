@@ -19,3 +19,8 @@ MTT,Meaning-Text Therory,Melcuk_1981,concept;cognition,"Provides a large and ela
 Sem-CommS,Semantic-Communicative Structure,Melcuk_2001,semantics,"A formal object that is imposed on the starting Semantic Structure of a sentence (under text synthesis) in order to turn the selected meaning into a linguistic message","",""
 WordG,Word Grammar,Hudson_2007,concept;cognition,"Statements about words and their properties form a complex network of propositions","Neuro-linguistics supports",""
 SemNet,Semantic Network,*,semantics;concept,*,"",""
+FrameNet,FrameNet,Rupperhofer_Ellsworth_Petruck_Johnson_baker_Scheffczyk_2016,bank,"Available in French,German,Chinese,...","",""
+LinkGParser,Link Grammar Parser,Grinberg_Lafferty_Sleator_1995,tool,"","",""
+AI,Artificial Intelligence,*,field,*,*,*
+UD,Universal Dependencies,deMarneffe_MacCartney_Manning_2006,bank,"Framework for cross-linguistically consistent grammatical annotation","",""
+HLT,Human Language Technology,Uszkoreit_2018,field,"Studies methods of how computer programs or electronic devices can analyze, produce, modify or respond to human texts and speech. NLP+CL+speech technology","",""
