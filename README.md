@@ -20,7 +20,7 @@ The tables are written with comma separated values (.csv) files. They consist of
 - papers : word list (Papers foreign key list)
   - introductory or main result papers
 - tags : word list (enumaration)
-  - e.g. : grammar, (logic) model, concept (or linguistic theory), field, cognition (theory), tool (parser,...), bank...
+  - e.g. : grammar, (logical) model, concept (or linguistic theory, -> syntax, semantics, pragmatics,...), field, cognition (theory), tool (parser,...), bank...
 - comments : text
 - strengths : text
 - shortcomings : text
@@ -28,13 +28,13 @@ The tables are written with comma separated values (.csv) files. They consist of
 ### TopicRelations
 - first : word (secondary key, Topc foreign key)
 - rel_type : word (enumeration)
-  - e.g. : syntax (of), sematics (of), subconcept (of), subfield (of), modelling (of), related (to), tool (of), bank (of),...
+  - e.g. : syntax (of), sematics (of), pragmatics (of), subconcept (of), subfield (of), modelling (of), related (to), tool (of), bank (of),...
 - second : word (secondary key, Topic foreign key)
 
 ### Papers
 - ref : ASCII word (primary key)
   - of the form Author1LastName\_Author1LastName\_...\_year(index)
-- authors : word couple list (Person foreign key list)
+- authors : text couple list (Person foreign key list)
 - year : number
 - title : text
 - type : word (enumaration)
@@ -57,7 +57,7 @@ The tables are written with comma separated values (.csv) files. They consist of
 - second : word (secondary key, Context foreign key)
 
 ### Persons
-- last_name : word (secondary key)
-- first_name : word (secondary key)
-- institute_town : word (optional)
+- last_name : text (secondary key)
+- first_name : text (secondary key)
+- institute_town : text (optional)
 - interests : word list (Topic primary key list)
