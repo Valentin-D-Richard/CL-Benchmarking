@@ -2,7 +2,8 @@ short_name,long_name,papers,tags,comments,strengths,shortcomings
 FFrame,Fillmore's Frame,Fillmore_Atkins_1992;Fillmore_Baker_2001,concept,"Lexical frame (Lexical Unit) with functional attributes (Lexical Elements) to lexical values (Lexical Entries): captures the semantic realisation of  the syntactic dependencies","FrameNet : large amount of lexical frames and annotated corpora","No global systematisation"
 ArgLink,Argument Linking,Lieber_1983,field,"Captures the semantic realisation of the syntactic or morphological dependencies","","High variability of actual realisation. Idiosyncratic"
 CaseGrammar,Case Grammar,Fillmore_1968,grammar;concept,"Link between the valence (thematic argumants) and the grammatical context (grammatical functions)","",""
-DG,Depedndency Grammar,Hays_1964,grammar;concept,"Structure determined by the relation between a word (a head) and its dependents","Adapted to free word order languages",""
+DepGT,Depedndency Grammar Theory,Hays_1964,concept,"Structure determined by the relation between a word (a head) and its dependents. Syntactic, semantic, mophologic or prosodic depedndencies","Adapted to free word order languages",""
+DG,Syntactic Dependency Grammar,Tesniere_1959,grammar,"Grammar modelled by (directed) dependencies between words","",""
 Lexicography,Lexicography,*,field,,,
 MT,Machine Translation,*,field,,,
 LinkG,Link Grammar,Sleator_Temperley_1993,grammar,"Builds relations between pairs of words, rather than constructing constituents, with non directed edges","Parsing algorithm",""
@@ -10,7 +11,7 @@ CG,Categorial Grammar,*,*,*,*,*
 XDG,Extensible Dependency Grammar,Duchier_Debusmann_2001,grammar,"A general framework for dependency grammar, with multiple levels of linguistic representations called dimensions","Different dimensions of description",""
 XMG,Extensible MetaGrammar,*,*,*,*,*
 RCS,Recursive Categorical Syntax,Brame_1984,grammar,"Algebraic theory of syntax (Algebraic Syntax)","",""
-TG,Transformational Grammar,*,*,*,*,*
+TG,Transformational Grammar,Chomsky_1956,grammar,"Generative Grammar with defined operations to produce new sentences from existing ones","",""
 OG,Operator Grammar,Harris_1991,concept;cognition;grammar,"Human language is a self-organizing system in which both the syntactic and semantic properties of a word are established purely in relation to other words. Universal constraints: depednancy,likelihood and reduction","",""
 FGD,Functionnal Generative Description,Sgall_Hajicova_Panevova_1986,grammar,"A stratificational grammar formalism that treats the sentence as a system of interlinked layers","",""
 TopFocAn,Topic-Focus Analysis,*,field,,,
@@ -24,3 +25,10 @@ LinkGParser,Link Grammar Parser,Grinberg_Lafferty_Sleator_1995,tool,"","",""
 AI,Artificial Intelligence,*,field,*,*,*
 UD,Universal Dependencies,deMarneffe_MacCartney_Manning_2006,bank,"Framework for cross-linguistically consistent grammatical annotation","",""
 HLT,Human Language Technology,Uszkoreit_2018,field,"Studies methods of how computer programs or electronic devices can analyze, produce, modify or respond to human texts and speech. NLP+CL+speech technology","",""
+SemRoles,Semantic Roles,Fillmore_1971,concept,"Or thematic relations, deep case. Various roles that a noun phrase may play with respect to the action or state described by a governing verb: agent, theme, experiencer,...","",""
+FuncGT,Functional Grammar Theory,Nichols_1984,concept,"Functionality of language and its elements to be the key to understanding linguistic processes and structures","",""
+SynFunc,Syntactic Functions,grammar,*,grammar,"Type of relation between a predicate and an argument, caracterised by morpho-syntactic properties on the argument. Subject, object,...","",""
+FDG,Functional (Discourse) Grammar,Hengeveld_Mackenzie_2008,grammar,"Explains how linguistic utterances are shaped, based on the goals and knowledge of natural language users","",""
+GenGT,Generative Grammar Theory,Chomsky_1965,concept,"System of rules that generates exactly those combinations of words that form grammatical sentences","",""
+SFL,Systemic Functional Linguistics,Halliday_1992,cognition,"Considers language as a social semiotic system","",""
+
