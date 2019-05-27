@@ -20,7 +20,7 @@ The tables are written with comma separated values (.csv) files. They consist of
 - papers : word list (Papers foreign key list)
   - introductory or main result papers
 - tags : word list (enumaration)
-  - e.g. : grammar, (logic) model, concept (or linguistic theory), field, cognition (theory), tool, bank...
+  - e.g. : grammar, (logic) model, concept (or linguistic theory), field, cognition (theory), tool (parser,...), bank...
 - comments : text
 - strengths : text
 - shortcomings : text
@@ -28,19 +28,17 @@ The tables are written with comma separated values (.csv) files. They consist of
 ### TopicRelations
 - first : word (secondary key, Topc foreign key)
 - rel_type : word (enumeration)
-  - e.g. : syntax (of), sematics (of), subconcept (of), subfield (of), modelling (of), related (to), tool (of)...
+  - e.g. : syntax (of), sematics (of), subconcept (of), subfield (of), modelling (of), related (to), tool (of), bank (of),...
 - second : word (secondary key, Topic foreign key)
-- paper : word (Papers foreign key list, optional)
-  - paper where the link is argumented
 
 ### Papers
-- ref : word (primary key)
+- ref : ASCII word (primary key)
   - of the form Author1LastName\_Author1LastName\_...\_year(index)
 - authors : word couple list (Person foreign key list)
 - year : number
 - title : text
 - type : word (enumaration)
-  - bibtex paper type (article, injournal, inbook, inproceedings, slides,...)
+  - bibtex paper type (article, injournal, inbook, inproceedings, slides, book,...)
 - context : word (Context foreign key, optional)
 - modellings : word list (Topic foreign key list)
 - comments : text
@@ -49,13 +47,13 @@ The tables are written with comma separated values (.csv) files. They consist of
 - short_name : word (primary key)
 - long_name : text
 - type : word (enumaration)
-  - e.g. : workshop, conference, publisher, archive, season_school, lecture, journal,association,...
+  - e.g. : workshop, conference, publisher, (online) repository, season_school, lecture, journal, association, institute,...
 - description : text
 
 ### ContextRelations
 - first : word (secondary key, Context foreign key)
 - rel_type : word (enumeration)
-  - e.g. : supervises,partner,...
+  - e.g. : supervises, partner (of),...
 - second : word (secondary key, Context foreign key)
 
 ### Persons
