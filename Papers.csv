@@ -15,7 +15,7 @@ Ruppenhofer_Ellsworth_Petruck_Johnson_baker_Scheffczyk_2016,Ruppenhofer|Josef;El
 Grinberg_Lafferty_Sleator_1995,Grinberg|Dennis;Lafferty|John;Sleator|Daniel,1995,"A Robust Parsing Algorithm for Link Grammars",injournal,CoRR,LinkGParser,""
 deMarneffe_MacCartney_Manning_2006,de Marneffe|Marie-Catherine;MacCartney|Bill;Manning|Christopher D.,2006,"Generating Typed Dependency Parses from Phrase Structure Parses",inproceedings,LREC,UD;DG,""
 Uszkoreit_2018,Uszkoreit|Hans,2018,"DFKI-LT - What is Language Technology",article,DFKI,,""
-Fillmore_1971,Fillmore|Charles J.,1971,"Types of lexical information",inbook,CUP,""
+Fillmore_1971,Fillmore|Charles J.,1971,"Types of lexical information",inbook,CUP,SemRoles,""
 Tesniere_1959,Tesnière|Lucien,1959,"Éléments de syntaxe structurale",book,Klincksieck,DG;DepGT,""
 Nichols_1984,Nichols|Johanna,1984,"Functional Theories of Grammar",injournal,ARoA,FuncGT,""
 Hengeveld_Mackenzie_2008,Hendeveld|Kees;Mackenzie|J. Lachlan,2008,"Functional Discourse Grammar: A Typologically-Based Theory of Language Structure",book,OUP,FDG,""
