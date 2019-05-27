@@ -13,5 +13,5 @@ Melcuk_2001,Mel’čuk|Igor,2001,"Communicative organization in natural language
 Hudson_2007,Hudson|Richard,2007,"Language Networks: The New Word Grammar",book,OUP,WordG,""
 Ruppenhofer_Ellsworth_Petruck_Johnson_baker_Scheffczyk_2016,Ruppenhofer|Josef;Ellsworth|Michael;Petruck|MiriamRL;Johnson|ChristopherR;Baker|CollinF;Scheffczyk|Jan,2016,"FrameNet II: Extended Theory and Practice",book,ICSI,FrameNet,""
 Grinberg_Lafferty_Sleator_1995,Grinberg|Dennis;Lafferty|John;Sleator|Daniel,1995,"A Robust Parsing Algorithm for Link Grammars",injournal,CoRR,LinkGParser,""
-deMarneffe_MacCartney_Manning_2006,deMarneffe|Marie-Catherine;MacCartney|Bill,Manning|ChristopherD,2006,"Generating Typed Dependency Parses from Phrase Structure Parses",inproceedings,LREC,UD;DG,""
-Uszkoreit_2018,Uszkoreit|Hans,2018,"DFKI-LT - What is Language Technology",article,DFKI,*,""
+deMarneffe_MacCartney_Manning_2006,deMarneffe|Marie-Catherine;MacCartney|Bill;Manning|ChristopherD,2006,"Generating Typed Dependency Parses from Phrase Structure Parses",inproceedings,LREC,UD;DG,""
+Uszkoreit_2018,Uszkoreit|Hans,2018,"DFKI-LT - What is Language Technology",article,DFKI,,""
