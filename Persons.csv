@@ -1,4 +1,4 @@
-lats_name,first_name,institute_town,interest
+lats_name,first_name,institute_town,interests
 Fillmore,Charles J.,Berkeley,FFrame;ArgLink
 Atkins,B. T. S.,,Lexicography
 Hays,David G.,,MT;DG
@@ -14,3 +14,17 @@ Panevová,Jarmila,Prague,FDG
 Starosta,Stanley,Hawaii,Lexicase
 Mel’čuk,Igor,Montréal,MTT;Sem-CommS
 Hudson,Richard,London,WordG
+Ruppenhofer,Josef,Leibniz,FrameNet:FFrame
+Ellsworth,Michael,Berkeley,FrameNet
+Petruck,MiriamRL,Berkeley,FrameNet
+Johnson,ChristopherR,SaltLakeCity,FrameNet
+Baker,CollinF,Berkeley,FrameNet;AI
+Scheffczyk,Jan,Honnover,FrameNet
+Grinberg,Dennis,Pittsburgh,LinkGParser
+Lafferty,John,NewHaven,LinkGParser
+deMarneffe,Marie-Catherine,Columbus,UD
+MacCartney,Bill,Standford,UD
+Manning,ChristopherD,Standford,UD
+Uszkoreit,Hans,Berlin,HLT
+
+
