@@ -1,12 +1,12 @@
 first,rel_type,second
 CaseGrammar,sytax,FFrame
-DG,syntax,CaseGrammar
+CaseGrammar,syntax,DepGT
 FFrame,modelling,ArgLink
 LinkG,related,DG
 LinkG,related,CG
 XDG,related,DG
 RCG,related,CG
-DG,modelling,OG
+DepG,modelling,OG
 FDG,related,DG
 FDG,modelling,TopFocAn
 Lexicase,related,DG
@@ -17,3 +17,11 @@ SemNet,semantics,WordG
 FrameNet,bank,FFrame
 LinkGParser,tool,LinkG
 UD,bank,DG
+FFrame,modelling,SemRoles
+SynFunc,syntax,FuncGT
+TopFocAn,pragmatics,FuncGT
+SemRoles,sematics,FuncGT
+DG,syntax,DepGT
+FDG,modelling,FuncGT
+TG,syntax,GenGT
+FuncGT,modelling,SFL
