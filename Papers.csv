@@ -31,4 +31,7 @@ Pollard_2019,Pollard|Carl,2019,"The nature of constraint-based grammar",inprocee
 Chomsky_1957,Comsky|Noam,1957,"Syntactic structures",book,deGM,PhrStructG,""
 Gazdar_Pullum_1981,Gazdar|Gerald;Pullum|Geoffrey K.,1981,"Subcategorization, constituent order, and the notion 'head'",inbook,ForisP,ID/LPG,""
 Dalrymple_Lamping_Saraswat_1993,Dalrymple|Mary;Lamping|John;Saraswat|Vijay,1993,"LFG semantics via constraints",inproceedings,EALC,Glue,""
-
+Gazdar_Klein_Pullum_ASag_1985,Gazdar|Gerald;Klein|Erwan H.;Pullum|Geoffrey K.;A. Sag|Ivan,1985,"Generalized Phrase Structure Grammar",book,HUP,GPSG,""
+Pollard_ASag_1994,Pollard|Carl;A. Sag|Ivan,1994,"Head-Driven Phrase Structure Grammar",book,UCP
+Copestake_2002,Copestake|Ann,2002,"Implementing Typed Feature Structure Grammars",book,CSLI,TDL,""
+Copestake_Flickinger_pollard_2005,Copestake|Ann;Flickinger|Dan;Pollard|Carl,2005,"Minimal Recursion Semantics: An Introduction",injournal,RoLaC,MRS;HPSG;DELPH-IN,""
