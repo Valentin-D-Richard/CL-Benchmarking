@@ -20,7 +20,7 @@ The tables are written with comma separated values (.csv) files. They consist of
 - papers : word list (Papers foreign key list)
   - introductory or main result papers
 - tags : word list (enumaration)
-  - e.g. : grammar, (logical) model, concept (or linguistic theory, -> syntax, semantics, pragmatics,...), field, cognition (theory), tool (parser,...), bank...
+  - e.g. : cognition (theory), theory, concept, field, grammar (syntactic modelling), semantics (modelling), pragmatics (modelling), morphology (modelling), tool (parser,...), bank...
 - comments : text
 - strengths : text
 - shortcomings : text
