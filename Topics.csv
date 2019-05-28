@@ -44,8 +44,11 @@ PhrStructG,Phrase Structure Grammar,Chomsky_1957,concept;grammar,"Also Consisten
 FS,Feature Stucture,*,concept,"A set of attribute–value pairs. Represented by a labelled DAG or an attribute-value matrix","",""
 ID/LPG,Immediate-Dominance/Linear-Precedance Grammar,Gazdar_Pullum_1981,concept;grammar,"Prase Structure Grammar distinguishing between immediate dominance (ID) and linear precedence (LP) constraints","",""
 Glue,Glue Semantics,Dalrymple_Lamping_Saraswat_1993,concept;semantics;grammar,"Meaning composition is constrained by a set of instructions (meaning constructors) stated within linear logic","",""
-GPSG,Generalised Phrase Structure Grammar,*,grammar,*,"",""
-HPSG,Head-driven Phrase Structure Grammar,*,grammar,*,"",""
-CFG,Context-Free Grammar,*,grammar,*,"",""
+GPSG,Generalised Phrase Structure Grammar,Gazdar_Klein_Pullum_ASag_1985,grammar,"Defining certain syntactic processes as ungrammatical for a given language and assuming everything not thus dismissed is grammatical within that language. Based on dominancerelations. CFG translated in a constraint-based grammar","","More complex parsing than for CFG"
+HPSG,Head-driven Phrase Structure Grammar,Pollard_ASag_1994,grammar,"Highly lexicalized, constraint-based grammar. Type of phrase structure grammar","Various parsers ain differents languages",""
+CFG,Context-Free Grammar,*,grammar,*,"Efficient polynomial parsing algorithm","Does not allow to model every natural language, especially Dutch and Swiss-German"
+TDL,Type Description Language,Copestake_2002,logic,"A data type specification language to describe an ontology of HPSG types","",""
+TAG,Tree Adjoining Grammar,*,grammar,*,"",""
+DELPH-IN,Deep Linguistic Processing with HPSG -Initiative,Copestake_Flickinger_pollard_2005,tool,"Collaboration where computational linguists worldwide develop natural language processing tools for deep linguistic processing of human language","",""
 
 
