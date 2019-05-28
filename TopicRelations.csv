@@ -34,7 +34,10 @@ APR,related,RG
 LFG,related,PhrStructG
 LFG,related,DG
 PhrStructG,syntax,GenGT
+PhrStructG,syntax,ConsGT
 LFG,syntax,ConsGT
+GPSG,syntax,ConsGT
+HPSG,syntax,ConsGT
 CFG,modelling,PhrStructG
 LFG,modelling,FS
 ID/LPG,related,PhrStructG
@@ -43,3 +46,13 @@ HPSG,syntax,Glue
 CFG,syntax,Glue
 CG,syntax,Glue
 TAG,syntax,Glue
+GPSG,related,CFG
+GPSG,modelling,FS
+GPSG,modelling,ID/PLG
+HPSG,modelling,ID/PLG
+HPSG,modelling,FS
+HPSG,related,GPSG
+MRS,semantics,HPSG
+TDL,logic,HPSG
+DELPH-IN,tool,HPSG
+DELPH-IN,tool,MRS
