@@ -20,7 +20,7 @@ The tables are written with comma separated values (.csv) files. They consist of
 - papers : word list (Papers foreign key list)
   - introductory or main result papers
 - tags : word list (enumaration)
-  - e.g. : cognition (theory), theory, concept, field, grammar (syntactic modelling), semantics (modelling), pragmatics (modelling), morphology (modelling), tool (parser,...), bank...
+  - e.g. : cognition (theory), theory, concept, field, grammar (syntactic modelling), semantics (modelling), pragmatics (modelling), morphology (modelling), logic(al tool : metagrammar,...), tool(kit : parser,...), bank...
 - comments : text
 - strengths : text
 - shortcomings : text
@@ -28,7 +28,7 @@ The tables are written with comma separated values (.csv) files. They consist of
 ### TopicRelations
 - first : word (secondary key, Topc foreign key)
 - rel_type : word (enumeration)
-  - e.g. : syntax (of), sematics (of), pragmatics (of), subconcept (of), subfield (of), modelling (of), related (to), tool (of), bank (of),...
+  - e.g. : syntax (of), sematics (of), pragmatics (of), subconcept (of), subfield (of), modelling (of), related (to), logic (tool of), tool (of), bank (of),...
 - second : word (secondary key, Topic foreign key)
 
 ### Papers
