@@ -1,5 +1,5 @@
 lats_name,first_name,institute_town,interests
-Fillmore,Charles J.,Berkeley,FFrame;ArgLink;SemRoles
+Fillmore,Charles J.,Berkeley,FFrame;ArgLink;SemRoles;CaseG
 Atkins,B. T. S.,,Lexicography
 Hays,David G.,,MT;DG
 Sleator,Daniel,Pittsburgh,LinkG
@@ -7,7 +7,7 @@ Temperley,Davy,New York,LinkG
 Duchier,Denys,Orléan,XMG
 Debusmann,Ralph,Saarbrück,XDG
 Brame,Micheal,,RCS
-Harris,Zellig,,OG
+Harris,Zellig,,OpGT
 Sgall,Petr,Prague,DG;FGD
 Hajicová,Eva,Prague,FGD;TopFocAn
 Panevová,Jarmila,Prague,FDG
@@ -30,5 +30,8 @@ Tesnière,Lucien,,DepGT;DG
 Nichols,Johanna,Berkeley,FuncGT
 Hendeveld,Kees,Amsterdam,FDG
 Mackenzie,J. Lachlan,Amsterdam,FDG
-Chomsky,Noam,,GenGT;FG
+Chomsky,Noam,,GenGT;FG;GBT
 Halliday,M.A.K,,SFL
+Foley,William A.,Sydney,RRG
+Van Valin Jr.,Robert D.,Düsseldorf,RRG;FuncGT
+Haegema,Liliane,Ghent,GBT
