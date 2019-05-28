@@ -4,8 +4,8 @@ ArgLink,Argument Linking,Lieber_1983,field,"Captures the semantic realisation of
 CaseG,Case Grammar,Fillmore_1968,concept;grammar;semantics,"Link between the valence (thematic argumants) and the grammatical context (grammatical functions)","",""
 DepGT,Depedndency Grammar Theory,Hays_1964,theory,"Structure determined by the relation between a word (a head) and its dependents. Syntactic, semantic, mophologic or prosodic depedndencies","Adapted to free word order languages",""
 DG,Syntactic Dependency Grammar,Tesniere_1959,grammar,"Grammar modelled by (directed) dependencies between words","",""
-Lexicography,Lexicography,*,field,,,
-MT,Machine Translation,*,field,,,
+Lexicography,Lexicography,*,field,*,,
+MT,Machine Translation,*,field,*,,
 LinkG,Link Grammar,Sleator_Temperley_1993,grammar,"Builds relations between pairs of words, rather than constructing constituents, with non directed edges","Parsing algorithm",""
 CG,Categorial Grammar,*,*,*,*,*
 XDG,Extensible Dependency Grammar,Duchier_Debusmann_2001,grammar,"A general framework for dependency grammar, with multiple levels of linguistic representations called dimensions","Different dimensions of description",""
@@ -22,7 +22,7 @@ WordG,Word Grammar,Hudson_2007,concept,"Statements about words and their propert
 SemNet,Semantic Network,*,concept;semantics,*,"",""
 FrameNet,FrameNet,Rupperhofer_Ellsworth_Petruck_Johnson_baker_Scheffczyk_2016,bank,"Available in French,German,Chinese,...","",""
 LinkGParser,Link Grammar Parser,Grinberg_Lafferty_Sleator_1995,tool,"","",""
-AI,Artificial Intelligence,*,field,*,*,*
+AI,Artificial Intelligence,*,field,*,,
 UD,Universal Dependencies,deMarneffe_MacCartney_Manning_2006,bank,"Framework for cross-linguistically consistent grammatical annotation","",""
 HLT,Human Language Technology,Uszkoreit_2018,field,"Studies methods of how computer programs or electronic devices can analyze, produce, modify or respond to human texts and speech. NLP+CL+speech technology","",""
 SemRoles,Semantic Roles,Fillmore_1971,concept;semantics,"Or thematic relations, deep case. Various roles that a noun phrase may play with respect to the action or state described by a governing verb: agent, theme, experiencer,...","",""
@@ -36,4 +36,16 @@ NLU,Natural Language Understanding,*,field,"A subtopic of natural-language proce
 MP,Minimalist Program,Chomsky_1993,concept,"Provides a conceptual framework used to guide the development of linguistic theory","Minimalism","No cognitive support"
 UG,Universal Grammar,Chomsky_2010,cognition,"A set of unconscious constraints that let us decide whether a sentence is correctly formed. Nativsm","",""
 GBT,Government and Binding Theory,Haegema_1994,concept;grammar,"Syntactic relation applicable to case assignment and relations between pronouns and reference","",""
+RG,Relational Grammar,Johnson_1974,grammar,"Primitive grammatical relations provide the ideal means to state syntactic rules in universal terms. Constituents that serve as the arguments to predicates are numbered","",""
+APG,Arc Pair Grammar,Johnson_Postal_1980,grammar,"Formalize and expand upon relational grammar. Also makes use of more formally stated ideas from model theory and graph theory"",""
+LFG,Lexical Functional Grammar,Bresnan_2001,grammar,"Constraint-based grammar framework positing two separate levels of syntactic structure, a phrase structure grammar representation of word order and constituency, and a representation of grammatical functions","Annual conference",""
+ConsGT,Constraint-based Grammar,Pollard_2019,theory,"Allowing anything that is not otherwise constrained","",""
+PhrStructG,Phrase Structure Grammar,Chomsky_1957,concept;grammar,"Also Consistency Grammar. Rewrite rule sytem based on syntactic categories (lexical/part of speech + phasal)","",""
+FS,Feature Stucture,*,concept,"A set of attribute–value pairs. Represented by a labelled DAG or an attribute-value matrix","",""
+ID/LPG,Immediate-Dominance/Linear-Precedance Grammar,Gazdar_Pullum_1981,concept;grammar,"Prase Structure Grammar distinguishing between immediate dominance (ID) and linear precedence (LP) constraints","",""
+Glue,Glue Semantics,Dalrymple_Lamping_Saraswat_1993,concept;semantics;grammar,"Meaning composition is constrained by a set of instructions (meaning constructors) stated within linear logic","",""
+GPSG,Generalised Phrase Structure Grammar,*,grammar,*,"",""
+HPSG,Head-driven Phrase Structure Grammar,*,grammar,*,"",""
+CFG,Context-Free Grammar,*,grammar,*,"",""
+
 
