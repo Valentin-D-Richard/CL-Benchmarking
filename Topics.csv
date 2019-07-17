@@ -50,5 +50,13 @@ CFG,Context-Free Grammar,*,grammar,*,"Efficient polynomial parsing algorithm","D
 TDL,Type Description Language,Copestake_2002,logic,"A data type specification language to describe an ontology of HPSG types","",""
 TAG,Tree Adjoining Grammar,*,grammar,*,"",""
 DELPH-IN,Deep Linguistic Processing with HPSG -Initiative,Copestake_Flickinger_pollard_2005,tool,"Collaboration where computational linguists worldwide develop natural language processing tools for deep linguistic processing of human language","",""
+OLAC,Open Language Archives Community,,bank,"An international partnership of institutions and individuals who are creating a worldwide virtual library of language resources","A lot of varied entries",""
+COCOON,Collection de Corpus Oraux Numériques,,bank,"Une plateforme technique qui accompagne les producteurs de ressources orales, à créer, structurer et archiver leurs corpus ; un corpus pouvant se composer d'enregistrements (en général audio) accompagnés éventuellement d'annotations de ces enregistrements","French (written) oral speech bank",""
+Glottolog,Glottolog,,bank,"Comprehensive reference information for the world's languages","reference bank",""
+Terraling,Terraling;,bank;"A collection of searchable linguistic databases that allows users to discover which properties characterize a language, as well as how these properties relate across languages","host any crosslinguistic property datatset","not so much used yet, only few properties"
+SemanticsArchive,semanticsarchive.net,,archive,"For exchanging papers of interest to natural language semanticists and philosophers of language. Hosted by LSA","Making it available as a pre-print can help getting more feedbacks",""
+JSTOR,jstor.org,,archive,"Provides access to more than 12 million academic journal articles, books, and primary sources in 75 disciplines","",""
+
+
 
 
