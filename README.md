@@ -38,26 +38,26 @@ The tables are written with comma separated values (.csv) files. They consist of
 - year : number
 - title : text
 - type : word (enumaration)
-  - bibtex paper type (article, injournal, inbook, inproceedings, slides, book,...)
+  - bibtex paper type (article, injournal, inbook, inproceedings, slides, book, (technical) report...)
 - context : word (Context foreign key, optional)
 - modellings : word list (Topic foreign key list)
 - comments : text
-
-### Contexts
-- short_name : word (primary key)
-- long_name : text
-- type : word (enumaration)
-  - e.g. : workshop, conference, publisher, (online) repository, season_school, lecture, journal, association, institute,...
-- description : text
-
-### ContextRelations
-- first : word (secondary key, Context foreign key)
-- rel_type : word (enumeration)
-  - e.g. : supervises, partner (of),...
-- second : word (secondary key, Context foreign key)
 
 ### Persons
 - last_name : text (secondary key)
 - first_name : text (secondary key)
 - institute_town : text (optional)
 - interests : word list (Topic primary key list)
+
+### Contexts
+- short_name : word (primary key)
+- long_name : text
+- type : word (enumaration)
+  - e.g. : workshop, conference, publisher, (online) repository, season_school, lecture, journal, association, institute, series,...
+- description : text
+
+### ContextRelations
+- first : word (secondary key, Context foreign key)
+- rel_type : word (enumeration)
+  - e.g. : supervises, partner (of), publishes, includes,...
+- second : word (secondary key, Context foreign key)
