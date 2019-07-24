@@ -56,3 +56,7 @@ MRS,semantics,HPSG
 TDL,logic,HPSG
 DELPH-IN,tool,HPSG
 DELPH-IN,tool,MRS
+CYKAlgo,tool,CFG
+EarlyAlgo,tool,CFG
+GLRAlgo,tool,CFG
+LTAG,related,TAG
