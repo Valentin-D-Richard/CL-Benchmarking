@@ -6,3 +6,8 @@ LSA,supervises,SemArch
 arXiv,supervises,CoRR
 MITWPL,supervises,MITOPiL
 ACL,supervises,EACL
+ACM,supervises,ComACM
+Springer,supervises,LNCS
+LNCS,publishes,ICALP
+OASPA,includes,Springer
+Elsevier,supervises,JCSS
