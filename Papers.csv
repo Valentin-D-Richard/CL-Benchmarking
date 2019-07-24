@@ -35,3 +35,8 @@ Gazdar_Klein_Pullum_ASag_1985,Gazdar|Gerald;Klein|Erwan H.;Pullum|Geoffrey K.;A.
 Pollard_ASag_1994,Pollard|Carl;A. Sag|Ivan,1994,"Head-Driven Phrase Structure Grammar",book,UCP,HPSG,""
 Copestake_2002,Copestake|Ann,2002,"Implementing Typed Feature Structure Grammars",book,CSLI,TDL,""
 Copestake_Flickinger_pollard_2005,Copestake|Ann;Flickinger|Dan;Pollard|Carl,2005,"Minimal Recursion Semantics: An Introduction",injournal,RoLaC,MRS;HPSG;DELPH-IN,""
+Cocke_Schwatz_1970,Cocke|John;Schwartz|Jacob,1970,"Programming languages and their compilers",report,,CFG;CYKAlgo,""
+Early_1968,Early|Jay,1970,"An Efficient Context-Free Parsing Algorithm",injournal,ACM,CFG;EarlyAlgo,""
+Lang_74,Lang|Bernard,1974,"Deterministic techniques for efficient non-deterministic parsers",inproceedings,ICALP,CFG;GLRAlgo,""
+Joshi_Levi_Takahashi_1975,Joshi|Aravind K.;Levy|Leon S.;Takahashi|Masako,1975,"Tree Adjunct Grammars",injournal,JCSS,TAG,""
+Joshi_Schabes_1997,Joshi|Aravind K.;Schabes|Yves,1997,"Tree-adjoining grammars",inbook,Springer,TAG,""
