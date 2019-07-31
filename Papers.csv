@@ -40,3 +40,11 @@ Early_1968,Early|Jay,1970,"An Efficient Context-Free Parsing Algorithm",injourna
 Lang_74,Lang|Bernard,1974,"Deterministic techniques for efficient non-deterministic parsers",inproceedings,ICALP,CFG;GLRAlgo,""
 Joshi_Levi_Takahashi_1975,Joshi|Aravind K.;Levy|Leon S.;Takahashi|Masako,1975,"Tree Adjunct Grammars",injournal,JCSS,TAG,""
 Joshi_Schabes_1997,Joshi|Aravind K.;Schabes|Yves,1997,"Tree-adjoining grammars",inbook,Springer,TAG,""
+Morill_2010,Morril|Glyn,2010,"Categorial Grammar: Logical Syntax, Semantics, and Processing",book,OUP,""
+Starke_2011,Starke|Michal,2011,"Towards an Elegant Solution to Language Variation: Variation Reduces to the Size of Lexically Stored Trees",inbook,OUP,""
+Steedman_1987,Steedman|Mark,1987,"Combinatory grammars and parasitic gaps",injournal,NLLT,""
+Lambek_1958,Lambek|Joachim,1958,"The mathematics of sentence structure",injournal,AMM,""
+Lambek_2008,Lambek|Joachim,2008,"Pregroup grammars and Chomsky's earliest examples",injournal,JLLI,""
+Hopcroft_Hullman_1979,Hopcroft|John E.;Hullman|Jeffrey D.,1979,"Introduction to Automata Theory, Languages, and Computation",book,AW,""
+Vijay-Shanker_Weir_1994,Vijay-Shanker|K;Weir|David J.,1994,"The Equivalence of Four Extensions of Context-Free Grammars",inbook,Springer,""
+
