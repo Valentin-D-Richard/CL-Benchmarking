@@ -39,7 +39,7 @@ GBT,Government and Binding Theory,Haegema_1994,concept;grammar,"Syntactic relati
 RG,Relational Grammar,Johnson_1974,grammar,"Primitive grammatical relations provide the ideal means to state syntactic rules in universal terms. Constituents that serve as the arguments to predicates are numbered","",""
 APG,Arc Pair Grammar,Johnson_Postal_1980,grammar,"Formalize and expand upon relational grammar. Also makes use of more formally stated ideas from model theory and graph theory","",""
 LFG,Lexical Functional Grammar,Bresnan_2001,grammar,"Constraint-based grammar framework positing two separate levels of syntactic structure, a phrase structure grammar representation of word order and constituency, and a representation of grammatical functions","Annual conference",""
-ConsGT,Constraint-based Grammar,Pollard_2019,theory,"Allowing anything that is not otherwise constrained","",""
+ConsGT,Constraint-based Grammar Theory,Pollard_2019,theory,"Allowing anything that is not otherwise constrained","",""
 PhrStructG,Phrase Structure Grammar,Chomsky_1957,concept;grammar,"Also Consistency Grammar. Rewrite rule sytem based on syntactic categories (lexical/part of speech + phasal)","",""
 FS,Feature Stucture,*,concept,"A set of attribute–value pairs. Represented by a labelled DAG or an attribute-value matrix","",""
 ID/LPG,Immediate-Dominance/Linear-Precedance Grammar,Gazdar_Pullum_1981,concept;grammar,"Prase Structure Grammar distinguishing between immediate dominance (ID) and linear precedence (LP) constraints","",""
@@ -60,5 +60,17 @@ EarlyAlgo,Early Algorithm,Early_1970,tool,"CFG parsing algorithm by top-down dyn
 GLRAlgo,Generalized LR parser,Lang_74,tool,"Left-to-right Rightmost (bottom-up) parser","complexity depending on the ambiguity of the grammar,online : only uses the needed space","only for CFG"
 TAG,Tree-Adjoining Grammar,Joshi_Levi_Takahashi_1975,grammar,"Elementary (initial or auxiliary) (lexical) trees with operations: ajunction or substitution","able to capture distance dependencies, like in Dutch","loss of systematisation for the construction of lexical trees"
 LTAG,Lexicalized Tree-Adjoining Grammar,Joshi_Schabes_1997,grammar,"Lexical anchor for every elementary tree","",""
+PhrGT,Phrase Structure Grammar Theory,Chomsky_1957,theory,"Or constituency grammars. Sentence structure in terms of the constituency relation","represented by consistuency trees","not relevant for languages with free word order"
+CG,Categorial Grammar,Morill_2010,concept;grammar," Syntactic constituents should generally combine as functions or according to a function-argument relationship","very developped with a syntax-semantics interface to Montague Semantics. Cognitive adequacy: can be parsed from the right to the left",""
+NanoS,Nanosyntax,Starke_2011,concept;grammar,"atomic elements should be even smaller than morphemes","",""
+CCG,Combinatory Categorial Grammar,Steedman_1987,grammar,"Categorial grammar with combinatorial logic","Efficiently parsable. As expressive as TAG",""
+LG,Lambek Grammar,Lambek_1958,grammar,"Categorial grammar with lambda calculus. Or Lambek calculus","","Weakly equivalent to CFG"
+PG,Pregroup Grammar,Lambek_2008,grammar,"Categorial grammar with pregroup. Or Lambek Pregroup","Simpler than Lambek Grammar","But same expressiviy"
+HG,Head Grammar,Pollard_1984,grammar,"CFG with indexed terminal string and operations of concatenation and wrapping","As expressible as TAG",""
+IG,Indexed Grammar,Hopcroft_Hullman_1979,grammar,"CFG with list of flags on terminal symbols","More expressive than TAG",""
+LIG,Linear Indexed Grammar,*,grammar,*,*,*
+
+
+
 
 
