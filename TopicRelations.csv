@@ -34,7 +34,7 @@ APR,related,RG
 LFG,related,PhrStructG
 LFG,related,DG
 PhrStructG,syntax,GenGT
-PhrStructG,syntax,ConsGT
+PhrStructG,syntax,PhrGT
 LFG,syntax,ConsGT
 GPSG,syntax,ConsGT
 HPSG,syntax,ConsGT
@@ -60,3 +60,13 @@ CYKAlgo,tool,CFG
 EarlyAlgo,tool,CFG
 GLRAlgo,tool,CFG
 LTAG,related,TAG
+CG,syntax,PhrGT
+HPSG,syntax,PhrGT
+PhrStructG,syntax,GBT
+GPSG,syntax,PhrGT
+NanoS,syntax,PhrGT
+CCG,syntax,CG
+LG,syntax,CG
+PG,syntax,CG
+HG,syntax,PhrGT
+
